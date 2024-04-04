@@ -1,7 +1,7 @@
 # StackOverflow Tags Browser README
 
 ## Demo
-[[LINK](https://emil-owczarek.github.io/stackTags/?page=1&pagesize=5&order=asc&sort=name&inname=)]
+[[LINK](https://emil-owczarek.github.io/StackTags/)]
 
 ## Project Overview
 
